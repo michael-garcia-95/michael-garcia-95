@@ -30,7 +30,7 @@ Built with Next.js, React, TypeScript, and Supabase, with real-time multiplayer 
 
 *Currently in development for its full production release.*
 
-[Visit TTMotorSales](https://playroundza.com)
+[Visit Roundza](https://playroundza.com)
 
 ### TTMotorSales
 An online vehicle classifieds platform that helps people buy and sell vehicles in Trinidad & Tobago.
